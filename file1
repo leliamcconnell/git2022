@@ -1,0 +1,2 @@
+PROC print data=sashelpl.class;
+run;
